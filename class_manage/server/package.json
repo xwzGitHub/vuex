@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "element-ui": "^2.4.4"
+  }
+}
